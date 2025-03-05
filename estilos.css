@@ -10,7 +10,7 @@ body {
     flex-direction: column;
     align-items: center; 
     background: linear-gradient(to top, rgba(48, 207, 208, 0.7), rgba(51, 8, 103, 0.7)), 
-                url("imagen/comunidad-1.jpeg"); /* Reemplaza con la ruta correcta */
+                url("comunidad-1.jpeg"); /* Reemplaza con la ruta correcta */
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* Para efecto de desplazamiento */
